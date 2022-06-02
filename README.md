@@ -28,4 +28,4 @@ Created a dashboard on Power BI to analyse the current landscape of unicorn comp
 
 ### Power BI Dashboard 
 
-![image](https://user-images.githubusercontent.com/75059347/171550378-ad3bbed6-2067-43be-be83-7f02c6d11d8d.png)
+![image](https://user-images.githubusercontent.com/75059347/171550445-cf17a05f-34e6-4db3-8249-9d571b824765.png)

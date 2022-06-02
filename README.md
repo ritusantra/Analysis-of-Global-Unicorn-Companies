@@ -9,12 +9,12 @@ Created a dashboard on Power BI to analyse the current landscape of unicorn comp
 
 ### Data Preprocessing
 
-•	Analysed the rows with missing City and dropped them.
-•	Removed the duplicate entries of the Company.
-•	Formatted the data type of Funding and Valuation.
-•	Corrected the spelling mistake for Artificial Intelligence in Industry.
-•	Investor column was split into four columns in order to have names of the investors in separate columns.
-•	The year from Date Joined was extracted and new column Year Joined was added in order to calculate the Duration To Become Unicorn.
+*	Analysed the rows with missing City and dropped them.
+*	Removed the duplicate entries of the Company.
+*	Formatted the data type of Funding and Valuation.
+*	Corrected the spelling mistake for Artificial Intelligence in Industry.
+*	Investor column was split into four columns in order to have names of the investors in separate columns.
+*	The year from Date Joined was extracted and new column Year Joined was added in order to calculate the Duration To Become Unicorn.
 
 ### Key Takeaways
 

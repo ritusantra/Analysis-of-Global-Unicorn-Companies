@@ -16,7 +16,7 @@ Created a dashboard on Power BI to analyse the current landscape of unicorn comp
 *	Investor column was split into four columns in order to have names of the investors in separate columns.
 *	The year from Date Joined was extracted and new column Year Joined was added in order to calculate the Duration To Become Unicorn.
 
-### Key Takeaways
+### Key Insights
 
 *	Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
 *	There are 1054 Unicorn companies and it was analysed that most of the founded companies became a Unicorn in the year 2021. 

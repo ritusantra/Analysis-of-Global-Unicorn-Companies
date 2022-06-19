@@ -9,6 +9,7 @@ Created a dashboard on Power BI to analyse the current landscape of unicorn comp
 
 ### Data Preprocessing
 
+*	Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
 *	Analysed the rows with missing City and dropped them.
 *	Removed the duplicate entries of the Company.
 *	Formatted the data type of Funding and Valuation.
@@ -18,7 +19,6 @@ Created a dashboard on Power BI to analyse the current landscape of unicorn comp
 
 ### Key Insights
 
-*	Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
 *	There are 1054 Unicorn companies and it was analysed that most of the founded companies became a Unicorn in the year 2021. 
 *	It takes about 7 years for a company to become Unicorn.
 *	Bytedance, Shein, SpaceX are the top three companies by valuation.

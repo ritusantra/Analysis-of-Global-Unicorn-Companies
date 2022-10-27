@@ -1,4 +1,4 @@
-# Analysis-of-Global-Unicorn-Companies
+# Analysis of Global Unicorn Companies 🦄📊
 
 [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMWU2MWFiNmMtODcyNC00YzdkLWI1YTItMzhlMzQ5ZTljMzEwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionb64cec8d47f383a23cd7)
 
